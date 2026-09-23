@@ -1,0 +1,9 @@
+.venv/
+node_modules/
+data/
+tools/rtxio/
+dist/
+__pycache__/
+.pytest_cache/
+*.tsbuildinfo
+*.pyc
